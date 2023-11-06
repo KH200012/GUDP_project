@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sender_no_loss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sender_with_loss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/receiver_no_loss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/receiver_with_loss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/receiver_nothing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
